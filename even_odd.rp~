@@ -1,0 +1,6 @@
+a=1
+while(a<100)
+puts a if a.even?
+else
+puts a
+a=a+1

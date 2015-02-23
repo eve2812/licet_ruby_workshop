@@ -1,0 +1,4 @@
+you="evelin"
+unless you=="evelin"
+  puts "good girl"
+end
