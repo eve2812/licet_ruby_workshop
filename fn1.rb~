@@ -1,6 +1,7 @@
-f1([1,2,3,4,5])
+
 def f1(val)
 val.each do |a|
 puts a if((a*2)%5==0) 
 end
 end
+f1([1,2,3,4,5])
